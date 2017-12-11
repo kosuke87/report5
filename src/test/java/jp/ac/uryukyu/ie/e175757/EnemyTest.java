@@ -1,4 +1,4 @@
-package e175757;
+package jp.ac.uryukyu.ie.e175757;
 
 import org.junit.jupiter.api.Test;
 
